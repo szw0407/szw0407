@@ -18,7 +18,7 @@ Welcome to my blog on GitHub Pages although it is still under construction.
   </p>
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=szw0407&langs_count=20&hide=WebPage" height=500px />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=szw0407&langs_count=20&hide=Other" height=500px />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szw0407&langs_count=15&layout=donut-vertical" height=500px  />
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=szw0407&theme=onedark&row=1&no-bg=true&column=7" width=850px />
