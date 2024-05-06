@@ -28,4 +28,4 @@ Coding is just my hobby, but not my major.
 Feel free to contact with me as I enjoy making friends.
 
 - 🌱 I’m currently learning Python, JavaScript, Dotnet, C/C++, OS, Internet & Web dev, etc.
-- 📫 How to reach me: vincent.son.ziwen@outlook.com
+- 📫 How to reach me: szw0407@outlook.com
