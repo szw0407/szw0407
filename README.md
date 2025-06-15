@@ -23,7 +23,7 @@ Welcome to my blog on GitHub Pages although it is still under construction.
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=szw0407&theme=onedark&row=1&no-bg=true&column=7" width=850px />
 
-Coding is just my hobby, but not my major.
+Now majoring AI and software dev.
 
 Feel free to contact with me as I enjoy making friends.
 
