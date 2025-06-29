@@ -3,7 +3,7 @@
 Welcome to my blog on GitHub Pages although it is still under construction.
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=szw0407" width=450px align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=szw0407" width=420px align=right />
   <p>
   I am currently a student at SDU, China.<br>
   From NJ, Jiangsu prov, CN.<br>
@@ -21,7 +21,7 @@ Welcome to my blog on GitHub Pages although it is still under construction.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=szw0407&langs_count=20&hide=Other" height=500px />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szw0407&langs_count=15&layout=donut-vertical" height=500px  />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=szw0407&theme=onedark&row=1&no-bg=true&column=7" width=850px />
+<img src="https://github-profile-trophy.vercel.app/?username=szw0407&theme=onedark&row=2&no-bg=true&column=5" width=850px />
 
 Now majoring AI and software dev.
 
