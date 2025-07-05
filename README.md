@@ -29,3 +29,7 @@ Feel free to contact with me as I enjoy making friends.
 
 - 🌱 I’m currently learning Python, JavaScript, Dotnet, C/C++, OS, Internet & Web dev, etc.
 - 📫 How to reach me: szw0407@outlook.com
+
+## Statements
+
+Many of my repos include AIGC, including source code and comments and docs and maybe in other formats. I have checked them before publishing. The provided, as is, may contain mistakes or errors, caused by no matter my mistakes or AI or some other random reasons. Please check them and use with caution. Contact me or open an issue if you have any problems. I shall try to help with it, although it depends on my capabilities and skills.
